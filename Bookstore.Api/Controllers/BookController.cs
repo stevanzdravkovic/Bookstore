@@ -63,6 +63,7 @@ namespace Bookstore.Api.Controllers
             [FromBody] UpdateBookDto dto,
             [FromServices] IUpdateBookCommand command)
         {
+            dto.Id = id;
             _executor.ExecuteCommand(command, dto);
             return NoContent();
         }
