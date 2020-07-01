@@ -7,9 +7,13 @@ using Bookstore.Application.Commands;
 using Bookstore.Application.DataTransfer;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
+
+
 
 namespace Bookstore.Api.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class UploadController : ControllerBase
