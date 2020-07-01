@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\bin\Debug\netcoreapp3.1\Bookstore.DataAccess.deps.json
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\bin\Debug\netcoreapp3.1\Bookstore.DataAccess.runtimeconfig.json
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\bin\Debug\netcoreapp3.1\Bookstore.DataAccess.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\bin\Debug\netcoreapp3.1\Bookstore.DataAccess.dll
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\bin\Debug\netcoreapp3.1\Bookstore.DataAccess.pdb
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\bin\Debug\netcoreapp3.1\Bookstore.Domain.dll
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\bin\Debug\netcoreapp3.1\Bookstore.Domain.pdb
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\obj\Debug\netcoreapp3.1\Bookstore.DataAccess.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\obj\Debug\netcoreapp3.1\Bookstore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\obj\Debug\netcoreapp3.1\Bookstore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\obj\Debug\netcoreapp3.1\Bookstore.DataAccess.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\obj\Debug\netcoreapp3.1\Bookstore.DataAccess.csproj.CopyComplete
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\obj\Debug\netcoreapp3.1\Bookstore.DataAccess.dll
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\obj\Debug\netcoreapp3.1\Bookstore.DataAccess.pdb
+C:\Users\Asus\source\repos\Bookstore\Bookstore.DataAccess\obj\Debug\netcoreapp3.1\Bookstore.DataAccess.genruntimeconfig.cache

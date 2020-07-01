@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\Bookstore\Bookstore.Domain\bin\Debug\netcoreapp3.1\Bookstore.Domain.deps.json
+C:\Users\Asus\source\repos\Bookstore\Bookstore.Domain\bin\Debug\netcoreapp3.1\Bookstore.Domain.dll
+C:\Users\Asus\source\repos\Bookstore\Bookstore.Domain\bin\Debug\netcoreapp3.1\Bookstore.Domain.pdb
+C:\Users\Asus\source\repos\Bookstore\Bookstore.Domain\obj\Debug\netcoreapp3.1\Bookstore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Bookstore\Bookstore.Domain\obj\Debug\netcoreapp3.1\Bookstore.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Bookstore\Bookstore.Domain\obj\Debug\netcoreapp3.1\Bookstore.Domain.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Bookstore\Bookstore.Domain\obj\Debug\netcoreapp3.1\Bookstore.Domain.dll
+C:\Users\Asus\source\repos\Bookstore\Bookstore.Domain\obj\Debug\netcoreapp3.1\Bookstore.Domain.pdb
+C:\Users\Asus\source\repos\Bookstore\Bookstore.Domain\obj\Debug\netcoreapp3.1\Bookstore.Domain.csprojAssemblyReference.cache
