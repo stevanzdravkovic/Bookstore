@@ -10,6 +10,8 @@ using Bookstore.Application.Searches;
 using Bookstore.DataAccess;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace Bookstore.Api.Controllers
 {
@@ -48,6 +50,7 @@ namespace Bookstore.Api.Controllers
         }
 
         // POST: api/Genre
+        [Authorize]
         [HttpPost]
         public IActionResult Post(
             [FromBody] GenreDto dto,
@@ -59,6 +62,7 @@ namespace Bookstore.Api.Controllers
         }
 
         // PUT: api/Genre/5
+        [Authorize]
         [HttpPut("{id}")]
         public IActionResult Put(int id,
             [FromBody] GenreDto dto,
@@ -70,6 +74,7 @@ namespace Bookstore.Api.Controllers
         }
 
         // DELETE: api/ApiWithActions/5
+        [Authorize]
         [HttpDelete("{id}")]
         public IActionResult Delete(int id,
             [FromServices] IDeleteGenreCommand command)
