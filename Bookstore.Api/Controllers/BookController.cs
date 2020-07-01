@@ -44,6 +44,7 @@ namespace Bookstore.Api.Controllers
         }
 
         // POST: api/Book
+        [Authorize]
         [HttpPost]
         public IActionResult Post(
             [FromBody] CreateBookDto dto,
@@ -54,6 +55,7 @@ namespace Bookstore.Api.Controllers
         }
 
         // PUT: api/Book/5
+        [Authorize]
         [HttpPut("{id}")]
         public IActionResult Put(int id, 
             [FromBody] UpdateBookDto dto,
@@ -64,6 +66,7 @@ namespace Bookstore.Api.Controllers
         }
 
         // DELETE: api/ApiWithActions/5
+        [Authorize]
         [HttpDelete("{id}")]
         public IActionResult Delete(int id,
             [FromServices] IDeleteBookCommand command)
