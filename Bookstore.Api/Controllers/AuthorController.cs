@@ -55,6 +55,7 @@ namespace Bookstore.Api.Controllers
         }
 
         // PUT: api/Author/5
+        [Authorize]
         [HttpPut("{id}")]
         public IActionResult Put(int id, [FromBody] UpdateAuthorDto dto,
             [FromServices] IUpdateAuthorCommand command)
@@ -65,6 +66,7 @@ namespace Bookstore.Api.Controllers
         }
 
         // DELETE: api/ApiWithActions/5
+        [Authorize]
         [HttpDelete("{id}")]
         public IActionResult Delete(int id,
             [FromServices] IDeleteAuthorCommand command)
