@@ -9,6 +9,8 @@ using Bookstore.Application.Queries;
 using Bookstore.Application.Searches;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace Bookstore.Api.Controllers
 {
